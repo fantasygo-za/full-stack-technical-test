@@ -52,9 +52,9 @@ For the frontend portion of the test, use the `/frontend` folder.
 2. Add responsive functionality for the layout, which will display one column on mobile
    devices, two columns on tablet devices, and four columns on desktops.
 3. Add a button to sort the players by total points from highest to lowest
-4. Add a button to filter the players by team
+4. Add a dropdown to filter the players by team
    1. We expect that filters from points 3. and 4. can be combined together.
-5. Add a button to apply a random shuffle to the list of players when it is clicked.
+5. Add a button to apply a random shuffle to the list of players when it is clicked. It should re-shuffle every click.
 
 Feel free to structure the code however you prefer and use third-party libraries at your discretion.
 
